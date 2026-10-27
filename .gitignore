@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code / OS
+.vscode/
+.DS_Store
+
+# Generated plots and logs
+plots/
+*.log
+cloudflared
